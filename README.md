@@ -1,12 +1,7 @@
-![Banner](banner.png)
-![Banner](assets/banner.png)
 <p align="center">
-  <img src="assets/banner.png" alt="Ethics and AI Banner" width="100%">
+  <img src="banner.png" alt="Ethics and AI Banner" width="100%">
 </p>
-# 🧠 Ethics and AI: Reclaiming Humanity in the Age of Mechanized Intelligence
-
-Welcome to a living archive of ethical inquiry, editorial transparency, and civic imagination in the age of artificial intelligence. This repository is part of an interdisciplinary initiative that interrogates the mechanization of life through AI systems—where prediction replaces judgment, optimization eclipses empathy, and efficiency threatens dignity.
-
+> *“Reclaiming humanity in the age of mechanized intelligence.”*
 
 # ethics-and-ai-initiative
 Research initiative on ethics and AI in the age of automation. Seeking funding to build editorially transparent, human-centered frameworks that restore civic dignity and resist extractive systems.
