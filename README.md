@@ -1,7 +1,10 @@
 <p align="center">
   <img src="banner.png" alt="Ethics and AI Banner" width="100%">
 </p>
-> *“Reclaiming humanity in the age of mechanized intelligence.”*
+
+<p align="center">
+  <em><sub>“Reclaiming humanity in the age of mechanized intelligence.”</sub></em>
+</p>
 
 # ethics-and-ai-initiative
 Research initiative on ethics and AI in the age of automation. Seeking funding to build editorially transparent, human-centered frameworks that restore civic dignity and resist extractive systems.
