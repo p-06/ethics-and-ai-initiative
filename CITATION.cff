@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this repository in your research, please cite it as below."
+title: "Ethics and AI: Reclaiming Humanity in the Age of Mechanized Intelligence"
+authors:
+  - family-names: Roy
+    given-names: Partha
+    orcid: https://orcid.org/0009-0002-1893-3637
+date-released: 2025-08-22
+version: 1.0.0
+repository-code: https://github.com/p-06/ethics-and-ai-initiative
+license: MIT
+keywords:
+  - ethical AI
+  - editorial clarity
+  - civic technology
+  - reproducibility
