@@ -1,11 +1,6 @@
-
 <p align="center">
-  <img src="banner.png" alt="Ethics and AI Banner" width="80%">
+  <img src="banner.png" alt="Ethics and AI Banner" width="100%">
 </p>
-
-<h3 align="center"><em>Reclaiming humanity in the age of intelligent machines</em></h3>
-
----
 
 # 🧠 Ethics and AI: Reclaiming Humanity in the Age of Mechanized Intelligence
 
