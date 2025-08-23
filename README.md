@@ -40,6 +40,13 @@ We explore how philosophical depth, reproducible frameworks, and editorial integ
 ## 🪙 Funding Status
 
 This initiative is currently **unfunded** and actively seeking support from institutions, foundations, and individuals committed to ethical innovation and public knowledge.
+## 🏛️ Funding Appeal
+
+This initiative is currently unfunded and seeks support from institutions, foundations, and individuals committed to ethical innovation and public interest technology.  
+Funding will enable the development of reproducible frameworks, editorial tools, and civic engagement strategies that restore dignity in AI systems.
+
+If you represent a funding body or wish to support this work, please reach out via [GitHub Discussions](#) or email.  
+Together, we can build a future where intelligence serves humanity — not the other way around.
 
 ## 📜 License & Attribution
 
