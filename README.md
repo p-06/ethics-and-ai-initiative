@@ -48,6 +48,9 @@ Funding will enable the development of reproducible frameworks, editorial tools,
 If you represent a funding body or wish to support this work, please reach out via [GitHub Discussions](#) or email.  
 Together, we can build a future where intelligence serves humanity — not the other way around.
 
+📣 [Join the conversation on GitHub Discussions](https://github.com/p-06/ethics-and-ai-initiative/discussions)  
+We welcome funders, scholars, and civic collaborators to engage with our mission.
+
 ## 📜 License & Attribution
 
 All content is shared under licenses that honor editorial clarity and contributor recognition.  
