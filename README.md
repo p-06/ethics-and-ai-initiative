@@ -5,6 +5,11 @@
 <p align="center">
   <em><sub>“Reclaiming humanity in the age of mechanized intelligence.”</sub></em>
 </p>
+### Ethics and AI: Reclaiming Humanity in the Age of Mechanized Intelligence
+
+This repository is a living archive of ethical inquiry, editorial transparency, and civic imagination in artificial intelligence.  
+It explores how automation systems shape — and often distort — human dignity, judgment, and social agency.  
+Through reproducible frameworks and philosophical depth, this initiative seeks to restore ethical clarity in a world governed by algorithmic logic.
 
 # ethics-and-ai-initiative
 Research initiative on ethics and AI in the age of automation. Seeking funding to build editorially transparent, human-centered frameworks that restore civic dignity and resist extractive systems.
