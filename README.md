@@ -48,4 +48,19 @@ Open an issue, fork the repo, or reach out via the contact details in `proposal/
 
 ---
 
+## 🧭 Editorial Roadmap
+
+This repository evolves through Saturnian discipline — structured, ethical, and enduring — to support civic clarity in AI.  
+Each update reflects a commitment to editorial excellence, reproducibility, and philosophical depth.
+
+### 🔹 Current Focus
+- **Refine README introduction**  
+  Strengthen the mission statement and ethical framing to make the repository funder-ready and citation-friendly.  
+  [Track progress → Issue #2](https://github.com/p-06/ethics-and-ai-initiative/issues/2)
+
+### ✅ Completed
+- **CITATION.cff**  
+  Added citation metadata for scholarly integration.  
+  [View → Issue #1](https://github.com/p-06/ethics-and-ai-initiative/issues/1)
+
 This repository is not just a collection of files—it’s a call to conscience. Let’s build a future where intelligence serves humanity, not the other way around.
